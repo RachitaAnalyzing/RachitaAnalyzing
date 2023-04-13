@@ -1,3 +1,4 @@
+![logo](https://github.com/RachitaAnalyzing/RachitaAnalyzing/blob/main/HD-wallpaper-github-red-logo-red-brickwall-github-logo-social-networks-github-neon-logo-github.png)
 <h1 align="center">Hi 👋, I'm Rachita Lakhmani</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
